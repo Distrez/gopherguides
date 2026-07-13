@@ -1,6 +1,6 @@
 package main
 
-import "github.com/distrez/gopherguides/greet"
+import "github.com/Distrez/gopherguides/greet"
 
 func main() {
 	greet.Hello()
